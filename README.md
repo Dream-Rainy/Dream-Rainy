@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋  
+I am Dream_Rain  
+
+# Contact Me  
+E-mail: <dream__rain@163.com>  
+
+![Dream-Rainy's github stats](https://github-readme-stats.vercel.app/api?username=Dream-Rainy&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dream-Rainy&layout=compact&theme=tokyonight)
+
 
 <!--
 **Dream-Rainy/Dream-Rainy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
