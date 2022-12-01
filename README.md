@@ -1,8 +1,9 @@
-# Hi there 👋  
-I am Dream_Rain  
+# 你好！ Hello! 👋  
+我是梦雨DreamRain 🌧️  
+在学Java，会一点Python  
 
-# Contact Me  
-E-mail: <dream__rain@163.com>  
+# 联系我 Contact Me  
+E-mail📧: <dream__rain@163.com>  
 
 ![Dream-Rainy's github stats](https://github-readme-stats.vercel.app/api?username=Dream-Rainy&show_icons=true&theme=tokyonight)
 
