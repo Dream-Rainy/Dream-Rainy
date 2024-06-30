@@ -5,10 +5,12 @@
 # 联系我 Contact Me  
 E-mail📧: <dream__rain@163.com>  
 
-[![Dream-Rainy's GitHub stats](https://github-readme-stats.dreamrain.top/api?username=Dream-Rainy&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.dreamrain.top/api/top-langs/?username=Dream-Rainy&theme=moltack&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.dreamrain.top/api?username=Dream-Rainy&show_icons=true&theme=moltack&rank_icon=github&locale=cn" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.dreamrain.top/api/top-langs/?username=Dream-Rainy&theme=moltack&layout=compact&langs_count=8&card_width=320&locale=cn" />
+</a>
 
 <!--
 **Dream-Rainy/Dream-Rainy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
