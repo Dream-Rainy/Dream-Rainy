@@ -1,9 +1,7 @@
 # 你好！ Hello! 👋  
 我是梦雨DreamRain 🌧️  
-在学Java，会一点Python  
-
-# 联系我 Contact Me  
-E-mail📧: <dream__rain@163.com>  
+在学~~Java~~Kotlin，会一点Python~~和前端~~  
+玩MC和音游的  
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.dreamrain.top/api?username=Dream-Rainy&show_icons=true&theme=moltack&rank_icon=default&locale=en&hide_border=true" /> </a> | <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.dreamrain.top/api/top-langs/?username=Dream-Rainy&theme=moltack&layout=donut-vertical&langs_count=10&card_width=320&locale=en&hide_border=true" /> </a> |
 | ------------- | ------------- |
