@@ -3,8 +3,8 @@ Hi, I am DreamRain
 ### Language
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <br>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white">
@@ -12,11 +12,18 @@ Hi, I am DreamRain
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 </p>
 
+#### Studying
+<p>
+  <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+</p>
+  
 ### Dev Tools
 <p>
   <!-- 通用工具 -->
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img alt="Github Copilot" src="https://img.shields.io/badge/Github%20Copilot-2088FF?style=for-the-badge&logo=githubcopilot&logoColor=white">
   <br>
   <!-- IDE/编辑器 -->
   <img alt="Vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
@@ -28,11 +35,17 @@ Hi, I am DreamRain
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
 
+### Some Information
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dream-Rainy&show_icons=true&theme=moltack&rank_icon=default&locale=en&hide_border=true" /> </a> | <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dream-Rainy&theme=moltack&layout=donut-vertical&langs_count=10&card_width=320&locale=en&hide_border=true" /> </a> |
-| ------------- | ------------- |
+### Used Project
+- [athul/waka-readme](https://github.com/athul/waka-readme)
+    
+  Wakatime Weekly Metrics on your Profile Readme.
+
+------------
+
 <!--
 **Dream-Rainy/Dream-Rainy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
