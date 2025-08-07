@@ -3,6 +3,9 @@
 在学~~Java~~Kotlin，会一点Python~~和前端~~  
 玩MC和音游的  
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dream-Rainy&show_icons=true&theme=moltack&rank_icon=default&locale=en&hide_border=true" /> </a> | <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dream-Rainy&theme=moltack&layout=donut-vertical&langs_count=10&card_width=320&locale=en&hide_border=true" /> </a> |
 | ------------- | ------------- |
 <!--
