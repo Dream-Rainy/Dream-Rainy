@@ -34,14 +34,14 @@ Hi, I am DreamRain
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
-<!--
+
 ### Some Information
-[waka info.png](https://github-readme-stats.vercel.app/api/wakatime?username=DreamRain&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)
--->
+![waka info.png](https://github-readme-stats.vercel.app/api/wakatime?username=DreamRain&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)
+
 <!--
 ### Used Project
-- [athul/waka-readme](https://github.com/athul/waka-readme)-->
-    <!--
+- [athul/waka-readme](https://github.com/athul/waka-readme)
+
   Wakatime Weekly Metrics on your Profile Readme.
 -->
 
