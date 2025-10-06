@@ -1,4 +1,4 @@
-# 梦雨DreamRain 🌧️  ![wakatime](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/DreamRain/interval:all_time&label=All%20time&color=blue)
+# 梦雨DreamRain 🌧️  ![wakatime](https://wakapi.dreamrain.top/api/badge/dreamrain/dreamrain/interval:all_time?label=All%20time&color=blue)
 Hi, I am DreamRain
 ### Language
 <p>
@@ -36,7 +36,7 @@ Hi, I am DreamRain
 </p>
 
 ### Some Information
-![waka info.png](https://github-readme-stats.vercel.app/api/wakatime?username=DreamRain&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)
+![waka info.png](https://github-readme-stats.vercel.app/api/wakatime?username=dreamrain&api_domain=wakapi.dreamrain.top&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Dream-Rainy&show_icons=true&theme=dark"
