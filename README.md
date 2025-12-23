@@ -36,17 +36,8 @@ Hi, I am DreamRain
 </p>
 
 ### Some Information
-![waka info.png](https://github-readme-stats.vercel.app/api/wakatime?username=dreamrain&api_domain=wakapi.dreamrain.top&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Dream-Rainy&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Dream-Rainy&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Dream-Rainy&show_icons=true" />
+  <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 
 
@@ -55,9 +46,9 @@ Hi, I am DreamRain
 
   📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
-  ⚡ Dynamically generated stats for your github readmes
+  📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
   
 ------------
 
