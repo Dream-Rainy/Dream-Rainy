@@ -23,4 +23,4 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs # Display time and projects sections, along with projects graphs
           plugin_wakatime_limit: 5                                  # Show 5 entries per graph
           plugin_wakatime_url: https://wakapi.dreamrain.top         # Wakatime url endpoint
-          plugin_wakatime_user: .user.login                         # User
+          plugin_wakatime_user: dreamrain                           # User
