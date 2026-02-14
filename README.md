@@ -1,4 +1,4 @@
-# 梦雨DreamRain 🌧️  ![wakatime](https://img.shields.io/endpoint?url=https://wakapi.dreamrain.top/api/compat/shields/v1/dreamrain/interval:all_time&label=All%20time&color=blue)
+# 梦雨DreamRain 🌧️  ![wakatime](https://img.shields.io/endpoint?url=https://wakapi.dreamrain.net/api/compat/shields/v1/dreamrain/interval:all_time&label=All%20time&color=blue)
 Hi, I am DreamRain
 ### Language
 <p>
